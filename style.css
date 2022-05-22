@@ -13,7 +13,7 @@
 
 body{
 
-    background:hsl(212, 45%, 89%);
+    background: var(--Light-gray);
     font-family: 'Outfit', sans-serif;
     min-height: 100vh;
     display: flex;
@@ -24,7 +24,7 @@ body{
 
 
 .card{
-    background: hsl(0, 0%, 100%);
+    background: var(--White);
     border-radius: 20px;
     width:18rem;
     padding: 1rem;
@@ -44,7 +44,7 @@ body{
 
 .card h1 {
     font-weight: 700;
-    color: hsl(218, 44%, 22%);
+    color: var(--Dark-blue);
     font-size: 1.2rem;
     padding: .2rem 1rem 0rem;
     margin-top: 10px;
@@ -54,7 +54,7 @@ body{
     font-weight: 400;
     font-size: .78rem;
     padding: 0rem .7rem .5rem; 
-    color: hsl(220, 15%, 55%);
+    color: var(--Grayish-blue);
     margin-bottom: 10px;
 }
 
