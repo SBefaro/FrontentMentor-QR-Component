@@ -3,7 +3,7 @@
 This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
 
 ## Design Preview
-![Design preview for the coding challenge](./design/qr-code-component-destop-preview.png)
+![Design preview for the coding challenge](./screenshots/desktop-screenshot.png)
 
 
 ## Table of contents
